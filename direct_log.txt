@@ -1,0 +1,2 @@
+2024-07-15 10:23:07 - Scan command received in chat type: private
+2024-07-15 10:31:11 - Scan command received in chat type: private
